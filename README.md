@@ -30,7 +30,7 @@ Dự án được thực hiện nhằm luyện tập React cơ bản như compon
 ## 🖼 Hình ảnh demo
 
 ### Màn hình làm bài
-![Quiz](screenshots/Quiz.png)
+![Quiz](screenshots/quiz.png)
 
 ### Màn hình kết quả
 ![Result](screenshots/Result.png)
